@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100&display=swap');
+
+.fda_prices_table {
+	width: 100%;
+}
+
+.price_panel_logo {
+	margin-right: 8px;
+	min-width: 16px;
+}
+
+.price__tabs_label {
+	color: #333;
+	font: 600 12px/1.67 'Work Sans',sans-serif;
+	margin: 10px 0 13px 0;
+	width: 25%;
+    text-align: left;
+}
+
+.price__panel_row {
+	border-bottom: 1px solid #e2e2e2;
+	display: flex;
+    font: 600 12px/1.67 'Work Sans',sans-serif;
+}
+
+.price__panel_price {
+	font-weight: normal;
+	margin: auto 0;
+	width: 25%;
+	word-break: break-word;
+    text-align: left;
+}
+
+.price__panel_name {
+	margin: 10px 0;
+	text-transform: capitalize;
+	width: 25%;
+	word-break: break-word;
+    text-align: left;
+}
